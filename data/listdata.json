@@ -1,0 +1,30 @@
+[
+    {
+        "id": 5,
+        "img": "./images/list1.jpg",
+        "title": "以旧换新",
+        "info":"估价迅速 顺丰包邮 ",
+        "href":"https://www.nubia.com/recycle.php"
+    },
+    {
+        "id": 6,
+        "img": "./images/list2.jpg",
+        "title": "氘锋移动电源",
+        "info":"27W PD快充|10000毫安 ",
+        "href":"https://www.nubia.com/product/s/1351"
+    },
+    {
+        "id": 7,
+        "img": "./images/list3.jpg",
+        "title": "红魔5G电竞魔盒",
+        "info":"3.5mm耳机接口|Type-C闪充|100M网线接口 ",
+        "href":"https://www.nubia.com/product/s/1351"
+    },
+    {
+        "id": 8,
+        "img": "./images/list4.png",
+        "title": "全民分销官招募令",
+        "info":"推荐购机 一键分享全民分销 轻松赚钱 ",
+        "href":"https://www.nubia.com/product/s/1351"
+    }
+]

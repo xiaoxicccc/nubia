@@ -1,0 +1,1066 @@
+[
+    {
+        "id": 12,
+        "listimg":[
+                "./images/list_all1.png",
+                "./images/list_all1-2.png",
+                "./images/list_all1-3.png",
+                "./images/list_all1-4.png"
+            
+        ],
+        "title": "45W闪充氘锋移动电源",
+        "price": 299,
+        "titleType":"银灰色",
+        "titleRAM":"20000mAh",
+        "info2":" &nbsp;",
+        "info":"",
+        "versions":"选择版本",
+        "setMeal":"",
+        "accident":"",
+        "gift":true,
+        "comp":"律音耳机（新版）(  黑色)",
+        "listColor":[
+           "银灰色"
+       ],
+       "listVersions":[
+           {
+            "ver":"20000mAh",
+            "pic":"299"
+           }
+           
+       ]
+       
+      
+    },
+    {
+        "id": 13,
+        "listimg":[
+            "./images/list_all2.png",
+             "./images/list_all2-2.png",
+        "./images/list_all2-3.png",
+         "./images/list_all2-4.png"
+        ],
+        "title": "27W PD快充氘锋移动电源 ",
+        "price": 149,
+        "titleType":"",
+        "titleRAM":"",
+        "info2":" &nbsp;",
+        "info":"",
+        "versions":"选择版本",
+        "setMeal":"",
+        "accident":"",
+        "gift":false,
+        "listColor":[
+           "银灰色"
+       ],
+       "listVersions":[
+           {
+            "ver":"10000mAh",
+            "pic":"149"
+           }
+           
+       ]
+    },
+    {
+        "id": 14,
+       
+       "listimg":[
+        "./images/list_all3.png",
+         "./images/list_all3-2.png",
+        "./images/list_all3-3.png",
+        "./images/list_all3-4.png"
+       ],
+        "title": "红魔5G钢化膜 ",
+        "price": 39,
+        "titleType":"黑色",
+        "titleRAM":"",
+        "info2":" &nbsp;",
+        "info":"",
+        "setMeal":"",
+        "accident":"",
+        "gift":true,
+        "comp":"律音耳机（新版）(  黑色)",
+        "listColor":[
+           "黑色"
+       ]
+       
+    },
+    {
+        "id": 15,
+        "listimg":[
+         "./images/list_all4.png",
+         "./images/list_all4-2.png",
+         "./images/list_all4-3.png",
+         "./images/list_all4-4.png"
+        ],
+        "title": "红魔5G电竞魔盒 ",
+        "price": 199,
+        "titleType":"",
+        "titleRAM":"",
+        "info2":" &nbsp;",
+        "info":null,
+        "gift":false,
+        "listColor":[
+           "黑色"
+       ]
+      
+    },
+    {
+        "id": 16,
+       
+        "listimg":[
+            "./images/list_all5.png",
+            "./images/list_all5-2.png",
+       "./images/list_all5-3.png",
+         "./images/list_all5-4.png"
+        ],
+        "title": "努比亚55W PD充电器",
+        "price": 109,
+        "titleType":"",
+        "titleRAM":"",
+        "info2":" &nbsp;",
+        "info":"",
+        "setMeal":"",
+        "accident":"",
+        "gift":false,
+        "listColor":[
+           "黑色"
+       ]
+    },
+    {
+        "id": 17,
+        "listimg":[
+            "./images/list_all6.png",
+            "./images/list_all6-2.png",
+            "./images/list_all6-3.png",
+            "./images/list_all6-4.png"
+        ],
+       
+        "title": "努比亚typeC to typeC 5A数据线",
+        "price": "¥59",
+        "titleType":"",
+        "titleRAM":"",
+
+        "info":"温馨提示： 此数据线双头皆为type-C接口的 ， 建议配套PD充电器（USB-C输出）使用",
+        "info2":" &nbsp;",
+        "setMeal":"",
+        "accident":"",
+        "gift":true,
+        "comp":"律音耳机（新版）(  黑色)",
+        "listColor":[
+           "红色"
+       ]
+    },
+    {
+        "id": 18,
+        "listimg":[
+           "./images/list_all7.png",
+      "./images/list_all7-2.png",
+         "./images/list_all7-3.png",
+        "./images/list_all7-4.png"
+        ],
+        "title": "红魔5G双滑轨保护套 ",
+        "price": 49,
+        "titleType":"",
+        "titleRAM":"",
+        "info":" &nbsp;",
+        "info2":"&nbsp; ",
+        "setMeal":"",
+        "accident":"",
+        "gift":false,
+        "listColor":[
+           "黑色"
+       ]
+    },
+    {
+        "id": 19,
+       "listimg":[
+      "./images/list_all8.png",
+        "./images/list_all8-2.png",
+        "./images/list_all8-3.png",
+        "./images/list_all8-4.png"
+       ],
+        "title": "红魔5G向量保护套 ",
+        "price": 49,
+        "titleType":"",
+        "titleRAM":"",
+        "info":" &nbsp;",
+        "info2":"&nbsp; ",
+        "setMeal":"",
+        "accident":"",
+        "gift":false,
+        "listColor":[
+           "黑色"
+       ]
+
+    },
+    {
+        "id": 20,
+       "listimg":[
+        "./images/list_all9.png",
+      "./images/list_all9-2.png",
+        "./images/list_all9-3.png",
+         "./images/list_all9-4.png"
+       ],
+        "title": "红魔战鼓便携式TWS音箱 ",
+        "price": 88,
+        "titleType":"",
+        "titleRAM":"",
+        "info":" 可以组对的音箱，打造1+1＞2的环绕立体音效，欢迎开发应用场景，趁年轻燥起来，购买一对限时享优惠，到手价169元~！",
+        "info2":"",
+        "setMeal":"",
+        "accident":"",
+        "gift":false,
+        "listColor":[
+           "红色"
+       ]
+    },
+    {
+        "id": 21,
+        "listimg":[
+        "./images/list_all10.png",
+        "./images/list_all10-2.png",
+        "./images/list_all10-3.png",
+         "./images/list_all10-4.png"
+        ],
+        "title": "百变魔龙盲盒手办 ",
+        "price": 69,
+        "titleType":"",
+        "titleRAM":"",
+        "info":" 单个盲盒（随机发货不指定）|拍6个默认发整盒(6个不重复)|所有盲盒拆封后，非质量问题不退不换|满400-15元",
+        "info2":"",
+        "setMeal":"",
+        "accident":"",
+        "gift":true,
+        "comp":"律音耳机（新版）(  黑色)",
+        "listColor":[
+           "随机"
+       ]
+    },
+    {
+        "id": 22,
+        "listimg":[
+           "./images/list_all11.png",
+        "./images/list_all11-2.png",
+        "./images/list_all11-3.png"
+        ],
+        "title": "红魔3/3S钢化磨砂玻璃屏幕保护膜",
+       
+        "price": 49,
+        "titleType":" 磨砂",
+        "titleRAM":"",
+        "info":" &nbsp;",
+        "info2":" &nbsp;",
+        "setMeal":"",
+        "accident":"",
+        "gift":false,
+        "listColor":[
+           "磨砂"
+       ]
+
+    },
+    {
+        "id": 23,
+        "listimg":[
+            "./images/list_all12.png",
+            "./images/list_all12-2.png"
+        ],
+        "title": "红魔战神手柄 ",
+        "price": 179,
+        "titleType":" ",
+        "titleRAM":"",
+        "info":"手柄体验加持，头号玩家般“全场景”游戏体验，打造一种电竞游戏的仪式感~!",
+        "info2":" &nbsp;",
+        "setMeal":"",
+        "accident":"",
+        "gift":false,
+        "listColor":[
+           "黑色"
+       ]
+    },
+    {
+        "id": 24,
+        "listimg":[
+            "./images/list_all13.png",
+         "./images/list_all13-2.png",
+         "./images/list_all13-3.png"
+        ],
+        "title": "红魔弹夹移动电源 ",
+        "price": 149,
+        "titleType":" ",
+        "titleRAM":"",
+        "info":"满足不同快充协议手机及其他移动设备，大功率输出可充Macbook；品质过硬，堪比移动电源中的AK-47！",
+        "info2":" &nbsp;",
+        "setMeal":"",
+        "accident":"",
+        "gift":false,
+        "listColor":[
+           "黑色"
+       ]
+
+    },
+    {
+        "id": 25,
+        "listimg":[
+          "./images/list_all14.png",
+        "./images/list_all14-2.png",
+        "./images/list_all14-3.png"
+      
+        ],
+        "title": "红魔加长电竞数据线 （2M） ",
+        "price": 39,
+        "titleType":"",
+        "titleRAM":"",
+        "info":"",
+        "info2":" &nbsp;",
+        "setMeal":"",
+        "accident":"",
+        "gift":true,
+        "comp":"律音耳机（新版）(  黑色)",
+        "listColor":[
+           "黑色"
+       ]
+
+
+    },
+    {
+        "id": 26,
+        "listimg":[
+           "./images/list_all15.png",
+         "./images/list_all15-2.png",
+       "./images/list_all15-3.png",
+        "./images/list_all15-4.png"
+        ],
+        
+        "title": "红魔手机支架 ",
+        "price": 79,
+        "titleType":" 黑色",
+        "titleRAM":"",
+        "info":"",
+        "info2":" &nbsp;",
+        "setMeal":"",
+        "accident":"",
+        "gift":false,
+        "listColor":[
+           "黑色"
+       ]
+
+    },
+    {
+        "id": 27,
+        "listimg":[
+           "./images/list_all16.png",
+    "./images/list_all16-2.png",
+      "./images/list_all16-3.png"
+        ],
+        "title": "红魔Mars向量保护套 ",
+        "price":79,
+        "titleType":" 黑色",
+        "titleRAM":"",
+        "info":"",
+        "info2":" &nbsp;",
+        "setMeal":"",
+        "accident":"",
+        "gift":false,
+        "listColor":[
+           "黑色"
+       ]
+
+    },
+    {
+        "id": 28,
+        "listimg":[
+         "./images/list_all17.png",
+     "./images/list_all17-2.png",
+     "./images/list_all17-3.png",
+      "./images/list_all17-4.png"
+        ],
+        "title": "创意贴纸 ",
+        "price": 29,
+        "titleType":"白色",
+        "titleRAM":"",
+        "info":" &nbsp;",
+        "info2":" &nbsp;",
+        "setMeal":"",
+        "accident":"",
+        "gift":false,
+        "listColor":[
+           "白色"
+       ]
+
+    },
+    {
+        "id": 29,
+        "title": "nubia Play 双模5G",
+       "listimg":[
+        "./images/top_nav1.png",
+         "./images/top_nav1-2.png",
+        "./images/top_nav1-3.png",
+         "./images/top_nav1-4.png"
+       ],
+       "price":2999,
+       "titleType":"5彩斑斓黑",
+       "titleRAM":"8GB+128GB",
+       "info":" 144Hz超竞屏|5100mAh大电池|4800万高清四摄",
+       "info2":" &nbsp;",
+        "versions":"选择版本",
+        "setMeal":"选择套餐",
+        "accident":"意外保<a href=''><img src='./images/？.png' alt=''></a>",
+        "gift":true,
+        "comp":"律音耳机（新版）(  黑色)",
+        "listColor":[
+           "5湖四海蓝",
+           "5彩斑斓黑",
+           "5颜六色白"
+       ],
+       "listVersions":[
+           {
+            "ver":"6GB+128GB",
+            "pic":2399
+           },
+           {
+            "ver":"8GB+128GB",
+            "pic":2699
+           },
+           {
+            "ver":"8GB+256GB",
+            "pic":2999
+           }
+           
+       ],
+       "listSetMeal":[
+            {
+                "set":"nubia Play 8GB+256GB 5湖四海蓝/氘锋充电器套装",
+                "pic":"¥3128.00,省¥40"
+            },
+            {
+                "set":" nubia Play 8GB+256GB 5湖四海蓝/律音耳机套装",
+                "pic":"¥3058.00,省¥40"
+            },
+            {
+                "set":"仅手机",
+                "pic":""
+            }
+       ],
+       "listAccident":[
+           {
+                "acc":"Play（8G+256G）后盖宝（半年内保修1次）",
+                "pic":"¥49.00"
+           },
+           {
+            "acc":"Play（8G+256G）后盖宝（一年内保修1次）",
+            "pic":"¥79.00"
+       },
+       {
+        "acc":"Play（8G+256G）碎屏保（半年内保修1次）",
+        "pic":"¥99.00"
+   },
+   {
+    "acc":"Play（8G+256G）碎屏保（一年内保修1次）",
+    "pic":"¥149.00"
+}
+       ]
+    },
+    {
+        "id": 30,
+        "title": "5湖四海蓝",
+        "listimg":[
+            "./images/top_nav2.png",
+        "./images/top_nav2-2.png",
+       "./images/top_nav2-3.png",
+        "./images/top_nav2-4.png"
+        ],
+        "price":2999,
+        "titleType":"5彩斑斓黑",
+        "titleRAM":"8GB+128GB",
+        "info":" 144Hz超竞屏|5100mAh大电池|4800万高清四摄",
+        "info2":" &nbsp;",
+         "versions":"选择版本",
+         "setMeal":"选择套餐",
+         "accident":"意外保<a href=''><img src='./images/？.png' alt=''></a>",
+         "gift":true,
+         "comp":"散热支架（新版）(  黑色)",
+         "listColor":[
+            "5湖四海蓝",
+            "5彩斑斓黑",
+            "5颜六色白"
+        ],
+        "listVersions":[
+            {
+             "ver":"6GB+128GB",
+             "pic":2399
+            },
+            {
+             "ver":"8GB+128GB",
+             "pic":2699
+            },
+            {
+             "ver":"8GB+256GB",
+             "pic":2999
+            }
+            
+        ],
+        "listSetMeal":[
+             {
+                 "set":"nubia Play 8GB+256GB 5湖四海蓝/氘锋充电器套装",
+                 "pic":"¥3128.00,省¥40"
+             },
+             {
+                 "set":" nubia Play 8GB+256GB 5湖四海蓝/律音耳机套装",
+                 "pic":"¥3058.00,省¥40"
+             },
+             {
+                 "set":"仅手机",
+                 "pic":""
+             }
+        ],
+        "listAccident":[
+            {
+                 "acc":"Play（8G+256G）后盖宝（半年内保修1次）",
+                 "pic":"¥49.00"
+            },
+            {
+             "acc":"Play（8G+256G）后盖宝（一年内保修1次）",
+             "pic":"¥79.00"
+        },
+        {
+         "acc":"Play（8G+256G）碎屏保（半年内保修1次）",
+         "pic":"¥99.00"
+    },
+    {
+     "acc":"Play（8G+256G）碎屏保（一年内保修1次）",
+     "pic":"¥149.00"
+ }
+        ]
+    },
+    {
+        "id": 31,
+        "title": "5颜六色白",
+        "listimg":[
+           "./images/top_nav3.png",
+        "./images/top_nav3-2.png",
+         "./images/top_nav3-3.png",
+         "./images/top_nav3-4.png"
+        ],
+        "price":2999,
+        "titleType":"5彩斑斓黑",
+        "titleRAM":"8GB+128GB",
+        "info":" 144Hz超竞屏|5100mAh大电池|4800万高清四摄",
+        "info2":" &nbsp;",
+         "versions":"选择版本",
+         "setMeal":"选择套餐",
+         "accident":"意外保<a href=''><img src='./images/？.png' alt=''></a>",
+         "gift":true,
+         "comp":"律音耳机（新版）(  黑色)",
+         "listColor":[
+            "5湖四海蓝",
+            "5彩斑斓黑",
+            "5颜六色白"
+        ],
+        "listVersions":[
+            {
+             "ver":"6GB+128GB",
+             "pic":2399
+            },
+            {
+             "ver":"8GB+128GB",
+             "pic":2699
+            },
+            {
+             "ver":"8GB+256GB",
+             "pic":2999
+            }
+            
+        ],
+        "listSetMeal":[
+             {
+                 "set":"nubia Play 8GB+256GB 5湖四海蓝/氘锋充电器套装",
+                 "pic":"¥3128.00,省¥40"
+             },
+             {
+                 "set":" nubia Play 8GB+256GB 5湖四海蓝/律音耳机套装",
+                 "pic":"¥3058.00,省¥40"
+             },
+             {
+                 "set":"仅手机",
+                 "pic":""
+             }
+        ],
+        "listAccident":[
+            {
+                 "acc":"Play（8G+256G）后盖宝（半年内保修1次）",
+                 "pic":"¥49.00"
+            },
+            {
+             "acc":"Play（8G+256G）后盖宝（一年内保修1次）",
+             "pic":"¥79.00"
+        },
+        {
+         "acc":"Play（8G+256G）碎屏保（半年内保修1次）",
+         "pic":"¥99.00"
+    },
+    {
+     "acc":"Play（8G+256G）碎屏保（一年内保修1次）",
+     "pic":"¥149.00"
+ }
+        ]
+
+    },
+    {
+        "id": 32,
+        "title": "Z20",
+        "listimg":[
+            "./images/top_nav4.png",
+        "./images/top_nav4-2.png",
+         "./images/top_nav4-3.png",
+         "./images/top_nav4-4.png"
+        ],
+        "price":2999,
+        "titleType":"钻石黑",
+        "titleRAM":"8GB+128GB",
+        "info":" 4800万超清双屏自拍|骁龙855Plus",
+        "info2":" &nbsp;",
+         "versions":"选择版本",
+         "gift":false,
+        
+       
+         "listColor":[
+            "钻石黑",
+            "星空蓝"
+        ],
+        "listVersions":[
+          
+            {
+             "ver":"8GB+128GB",
+             "pic":2999
+            }
+           
+            
+        ]
+
+
+    },
+    {
+        "id": 33,
+        "title": "X",
+       "listimg":[
+         "./images/top_nav5.png",
+         "./images/top_nav5-2.png",
+         "./images/top_nav5-3.png",
+        "./images/top_nav5-4.png"
+       ],
+       "price":2399,
+       "titleType":"深空灰",
+       "titleRAM":"8GB+128GB",
+       "info":" 骁龙845|双屏黑科技|AOD熄屏",
+       "info2":" &nbsp;",
+        "versions":"选择版本",
+        "gift":false,
+       
+      
+        "listColor":[
+           "深空灰"
+       ],
+       "listVersions":[
+        {
+            "ver":"6GB+64GB",
+            "pic":1699
+           },
+         
+           {
+            "ver":"8GB+128GB",
+            "pic":2399
+           }
+          
+           
+       ]
+
+    },
+    {
+        "id": 34,
+        "title": "红魔5G 游戏手机 氘锋版",
+        "listimg":[
+           "./images/top_nav6.png",
+         "./images/top_nav6-2.png",
+         "./images/top_nav6-3.png",
+         "./images/top_nav6-4.png"
+        ],
+        "price":4599,
+        "titleType":"透明",
+        "titleRAM":"12GB+256GB",
+        "info":" 享12期分期免息",
+        "info2":" 透明机身｜彩色风扇｜沉金工艺",
+         "versions":"选择版本",
+         "setMeal":"选择套餐",
+         "accident":"意外保<a href=''><img src='./images/？.png' alt=''></a>",
+         "gift":true,
+         "comp":"AK47-火麒麟（新版）(  黑色)",
+         "listColor":[
+           
+            "透明"
+        ],
+        "listVersions":[
+            {
+             "ver":"12GB+256GB",
+             "pic":4599
+            },
+            {
+             "ver":"16GB+256GB",
+             "pic":5199
+            }
+            
+        ],
+        "listSetMeal":[
+             {
+                 "set":"红魔5G 12GB+256GB 氘锋透明版 /氘锋充电器套装",
+                 "pic":"¥4728.00,省¥40"
+             },
+             {
+                 "set":"红魔5G 12GB+256GB 氘锋透明版 /律音耳机套装",
+                 "pic":"¥4658.00,省¥40"
+             },
+             {
+                 "set":"仅手机",
+                 "pic":"¥4599.00"
+             }
+        ],
+        "listAccident":[
+            {
+                 "acc":"Play（8G+256G）后盖宝（半年内保修1次）",
+                 "pic":"¥59.00"
+            },
+            {
+             "acc":"Play（8G+256G）后盖宝（一年内保修1次）",
+             "pic":"¥89.00"
+        },
+        {
+         "acc":"Play（8G+256G）碎屏保（半年内保修1次）",
+         "pic":"¥139.00"
+    },
+    {
+     "acc":"Play（8G+256G）碎屏保（一年内保修1次）",
+     "pic":"¥219.00"
+ }
+        ]
+    },
+    {
+        "id": 35,
+        "title": "红魔5G 游戏手机",
+        "listimg":[
+        "./images/top_nav7.png",
+        "./images/top_nav7-2.png",
+        "./images/top_nav7-3.png"
+        ],
+        "price":4599,
+        "titleType":"骇客黑",
+        "titleRAM":"8GB+128GB",
+        "info":" 红魔5G火星红赠律音耳机",
+        "info2":" 144Hz超竞屏 | 高通骁龙865 | 风扇+液冷双散热",
+         "versions":"选择版本",
+         "setMeal":"",
+         "accident":"意外保<a href=''><img src='./images/？.png' alt=''></a>",
+         "gift":true,
+         "listColor":[
+           
+            "骇客黑",
+            "火星红",
+            "赛博霓虹"
+        ],
+        "listVersions":[
+            {
+                "ver":"8GB+128GB",
+                "pic":3799
+               },
+            {
+                "ver":"12GB+128GB",
+                "pic":4099
+               },
+            {
+             "ver":"12GB+256GB",
+             "pic":4399
+            },
+            {
+             "ver":"16GB+256GB",
+             "pic":4699
+            }
+            
+        ],
+       "listAccident":[
+           {
+                "acc":"Play（8G+256G）后盖宝（半年内保修1次）",
+                "pic":"¥59.00"
+           },
+           {
+            "acc":"Play（8G+256G）后盖宝（一年内保修1次）",
+            "pic":"¥89.00"
+       },
+       {
+        "acc":"Play（8G+256G）碎屏保（半年内保修1次）",
+        "pic":"¥129.00"
+   },
+   {
+    "acc":"Play（8G+256G）碎屏保（一年内保修1次）",
+    "pic":"¥189.00"
+}
+       ]
+
+    },
+    {
+        "id": 36,
+        "title": "红魔3S",
+        "listimg":[
+         "./images/top_nav8.png",
+       "./images/top_nav8-2.png",
+        "./images/top_nav8-3.png",
+        "./images/top_nav8-4.png"
+        ],
+        "price":2999,
+        "titleType":"玄铁黑",
+        "titleRAM":"8GB+128GB",
+        "info":" 骁龙855Plus|风扇+液冷双散热|90Hz电竞屏",
+        "info2":" &nbsp;",
+         "versions":"选择版本",
+         "gift":false,
+        
+       
+         "listColor":[
+            "玄铁黑"
+        ],
+        "listVersions":[
+          
+            {
+             "ver":"8GB+128GB",
+             "pic":2999
+            }
+           
+            
+        ]
+
+    },
+    {
+        "id": 37,
+        "title": "红魔3",
+       "listimg":[
+        "./images/top_nav9.png",
+       "./images/top_nav9-2.png",
+      "./images/top_nav9-3.png",
+         "./images/top_nav9-4.png"
+       ],"price":2399,
+       "titleType":"玄铁黑",
+       "titleRAM":"8GB+128GB",
+       "info":" 骁龙855|内置离心风扇散热|5000mAh大电池",
+       "info2":" &nbsp;",
+        "versions":"选择版本",
+        "gift":false,
+       
+      
+        "listColor":[
+           "玄铁黑",
+           "赤焰红",
+           "战地迷彩版"
+       ],
+       "listVersions":[
+         
+           {
+            "ver":"8GB+128GB",
+            "pic":2399
+           }
+          
+           
+       ]
+
+
+    },
+    {
+        "id": 43,
+        "title": "红魔5G游戏手机大礼包",
+        "img": "./images/top_nav11.png",
+        "img2": "./images/top_nav11-2.png",
+        "img3": "./images/top_nav11-3.png",
+        "img4": "./images/top_nav11-4.png",
+        "isNew": "新品"
+    },
+    {
+        "id": 44,
+        "title": "冰风散热魔盒Pro",
+        "img": "./images/top_nav12.png",
+        "img2": "./images/top_nav12-2.png",
+        "img3": "./images/top_nav12-3.png",
+        "img4": "./images/top_nav12-4.png",
+        "isNew": "新品"
+    },
+    {
+        "id": 45,
+        "title": "努比亚小新 智能牙刷消毒器",
+        "img": "./images/top_nav13.png",
+        "img2": "./images/top_nav13-2.png",
+        "img3": "./images/top_nav13-3.png",
+        "img4": "./images/top_nav13-4.png",
+        "isNew": "新品"
+    },
+    {
+        "id": 46,
+        "title": "努比亚小新 智能声波电动牙刷",
+        "img": "./images/top_nav14.png",
+        "img2": "./images/top_nav14-2.png",
+        "img3": "./images/top_nav14-3.png",
+        "img4": "./images/top_nav14-4.png",
+        "isNew": "新品"
+    },
+    {
+        "id": 47,
+        "title": "努比亚小新 智能牙刷消毒器",
+        "img": "./images/top_nav13.png",
+        "img2": "./images/top_nav13-2.png",
+        "img3": "./images/top_nav13-3.png",
+        "img4": "./images/top_nav13-4.png",
+        "isNew": "新品"
+    },
+    {
+        "id": 48,
+        "title": "努比亚小新 智能声波电动牙刷",
+        "img": "./images/top_nav14.png",
+        "img2": "./images/top_nav14-2.png",
+        "img3": "./images/top_nav14-3.png",
+        "img4": "./images/top_nav14-4.png",
+        "isNew": "新品"
+    },
+    {
+        "id": 49,
+        "title": "车载香薰",
+        "img": "./images/top_nav15.png",
+        "img2": "./images/top_nav15-2.png",
+        "img3": "./images/top_nav15-3.png",
+        "img4": "./images/top_nav15-4.png",
+        "isNew": ""
+    },
+    {
+        "id": 50,
+        "title": "努比亚阿尔法",
+        "img": "./images/top_nav16.png",
+        "img2": "./images/top_nav16-2.png",
+        "img3": "./images/top_nav16-3.png",
+        "img4": "./images/top_nav16-4.png",
+        "isNew": ""
+    },
+    {
+        "id": 51,
+        "title": "冰风散热魔盒Pro",
+        "img": "./images/top_nav12.png",
+        "img2": "./images/top_nav12-2.png",
+        "img3": "./images/top_nav12-3.png",
+        "img4": "./images/top_nav12-4.png",
+        "isNew": "新品"
+    },
+    {
+        "id": 52,
+        "title": "红魔5G手机透明保护套",
+        "img": "./images/top_nav17.png",
+        "img2": "./images/top_nav17-2.png",
+        "img3": "./images/top_nav17-3.png",
+        "img4": "./images/top_nav17-4.png",
+        "isNew": "新品"
+    },
+    {
+        "id": 53,
+        "title": "红魔5G游戏手机大礼包",
+        "img": "./images/top_nav11.png",
+        "img2": "./images/top_nav11-2.png",
+        "img3": "./images/top_nav11-3.png",
+        "img4": "./images/top_nav11-4.png",
+        "isNew": "新品"
+    },
+    {
+        "id": 54,
+        "title": "65W氘锋氮化镓充电器",
+        "img": "./images/top_nav18.png",
+        "img2": "./images/top_nav18-2.png",
+        "img3": "./images/top_nav18-3.png",
+        "img4": "./images/top_nav18-4.png",
+        "isNew": "新品"
+    },
+    {
+        "id": 55,
+        "title": "红魔战鼓便携式TWS音箱",
+        "img": "./images/top_nav19.png",
+        "img2": "./images/top_nav19-2.png",
+        "img3": "./images/top_nav19-3.png",
+        "img4": "./images/top_nav19-4.png",
+        "isNew": ""
+    },
+    {
+        "id": 56,
+        "title": "律音耳机（新版）",
+        "img": "./images/top_nav20.png",
+        "img2": "./images/top_nav20-2.png",
+        "img3": "./images/top_nav20-3.png",
+        "img4": "./images/top_nav20-4.png",
+        "isNew": ""
+    },
+    {
+        "id": 57,
+        "title": "红魔5G 游戏手机 氘锋版",
+        "listimg":[
+           "./images/haifeng1.png",
+         "./images/haifeng2.png",
+         "./images/haifeng3.png"
+        ],
+        "price":4599,
+        "titleType":"透明",
+        "titleRAM":"12GB+256GB",
+        "info":" 享12期分期免息",
+        "info2":" 透明机身｜彩色风扇｜沉金工艺",
+         "versions":"选择版本",
+         "setMeal":"选择套餐",
+         "accident":"意外保<a href=''><img src='./images/？.png' alt=''></a>",
+         "gift":true,
+         "comp":"AK47-火麒麟（新版）(  黑色)",
+         "listColor":[
+           
+            "透明"
+        ],
+        "listVersions":[
+            {
+             "ver":"12GB+256GB",
+             "pic":4599
+            },
+            {
+             "ver":"16GB+256GB",
+             "pic":5199
+            }
+            
+        ],
+        "listSetMeal":[
+             {
+                 "set":"红魔5G 12GB+256GB 氘锋透明版 /氘锋充电器套装",
+                 "pic":"¥4728.00,省¥40"
+             },
+             {
+                 "set":"红魔5G 12GB+256GB 氘锋透明版 /律音耳机套装",
+                 "pic":"¥4658.00,省¥40"
+             },
+             {
+                 "set":"仅手机",
+                 "pic":"¥4599.00"
+             }
+        ],
+        "listAccident":[
+            {
+                 "acc":"Play（8G+256G）后盖宝（半年内保修1次）",
+                 "pic":"¥59.00"
+            },
+            {
+             "acc":"Play（8G+256G）后盖宝（一年内保修1次）",
+             "pic":"¥89.00"
+        },
+        {
+         "acc":"Play（8G+256G）碎屏保（半年内保修1次）",
+         "pic":"¥139.00"
+    },
+    {
+     "acc":"Play（8G+256G）碎屏保（一年内保修1次）",
+     "pic":"¥219.00"
+ }
+        ]
+    }
+]

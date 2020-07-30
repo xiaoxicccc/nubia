@@ -1,0 +1,111 @@
+[
+    {
+        "id": 0,
+        "img": "./images/list0.png",
+        "title": "HUAWEI P40 Pro|5G",
+        "info":"享6期免息 ",
+        "price":"¥7988",
+        "is5G":false,
+        "isBagp":false,
+        "isNew":false,
+        "isFOI":false,
+        "href":"https://www.vmall.com/product/10086715691479.html"
+    },
+   
+    {
+        "id": 1,
+        "img": "./images/list1.png",
+        "title": "HUAWEI P40 Pro+",
+        "info":"享6期免息 ",
+        "price":"¥7988",
+        "is5G":false,
+        "isBagp":false,
+        "isNew":false,
+        "isFOI":false,
+        "href":"https://www.vmall.com/product/10086715691479.html"
+    },
+    {
+        "id": 2,
+        "img": "./images/list2.png",
+        "title": "荣耀30",
+        "info":"享6期免息 ",
+        "price":"¥2999",
+        "is5G":false,
+        "isBagp":false,
+        "isNew":false,
+        "isFOI":false,
+        "href":"https://www.vmall.com/product/10086715691479.html"
+    },
+    {
+        "id": 3,
+        "img": "./images/list3.png",
+        "title": "HUAWEI Mate30 5G",
+        "info":"享6期免息 ",
+        "price":"¥4469",
+        "is5G":false,
+        "isBagp":false,
+        "isNew":false,
+        "isFOI":false,
+        "href":"https://www.vmall.com/product/10086715691479.html"
+    },
+    {
+        "id": 4,
+        "img": "./images/list4.png",
+        "title": "荣耀Play4",
+        "info":"享6期免息 ",
+        "price":"¥1999",
+        "is5G":true,
+        "isBagp":false,
+        "isNew":false,
+        "isFOI":false,
+        "href":"https://www.vmall.com/product/10086715691479.html"
+    },
+    {
+        "id": 5,
+        "img": "./images/list5.png",
+        "title": "HUAWEI Mate30 Pro 5G",
+        "info":"享6期免息 ",
+        "price":"¥6369",
+        "is5G":false,
+        "isBagp":false,
+        "isNew":false,
+        "isFOI":false,
+        "href":"https://www.vmall.com/product/10086715691479.html"
+    },
+    {
+        "id": 6,
+        "img": "./images/list6.png",
+        "title": "荣耀X10 MAX",
+        "info":"享6期免息 ",
+        "price":"¥2099",
+        "is5G":false,
+        "isBagp":true,
+        "isNew":false,
+        "isFOI":false,
+        "href":"https://www.vmall.com/product/10086715691479.html"
+    },
+    {
+        "id": 7,
+        "img": "./images/list7.png",
+        "title": "荣耀畅享Z 5G",
+        "info":"享6期免息 ",
+        "price":"¥2199",
+        "is5G":false,
+        "isBagp":false,
+        "isNew":false,
+        "isFOI":false,
+        "href":"https://www.vmall.com/product/10086715691479.html"
+    },
+    {
+        "id": 8,
+        "img": "./images/list8.png",
+        "title": "荣耀 Play4T Pro",
+        "info":"享6期免息 ",
+        "price":"¥1399",
+        "is5G":false,
+        "isBagp":false,
+        "isNew":false,
+        "isFOI":false,
+        "href":"https://www.vmall.com/product/10086715691479.html"
+    }
+]

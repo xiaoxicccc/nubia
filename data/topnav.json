@@ -1,0 +1,232 @@
+[
+    {
+        "id":"1",
+        "list":[
+            {   "id":29,
+                "title":"5彩斑斓黑",
+                "img":"./images/top_nav1.png",
+                "img2":"./images/top_nav1-2.png",
+                "img3":"./images/top_nav1-3.png",
+                "img4":"./images/top_nav1-4.png"
+            },
+            {   "id":30,
+                "title":"5湖四海蓝",
+                "img":"./images/top_nav2.png",
+                "img2":"./images/top_nav2-2.png",
+                "img3":"./images/top_nav2-3.png",
+                "img4":"./images/top_nav2-4.png"
+            },
+            {   "id":31,
+                "title":"5颜六色白",
+                "img":"./images/top_nav3.png",
+                "img2":"./images/top_nav3-2.png",
+                "img3":"./images/top_nav3-3.png",
+                "img4":"./images/top_nav3-4.png"
+            }
+        ]
+
+    },
+    {
+        "id":"2",
+        "list":[
+            {   "id":32,
+                "title":"Z20",
+                "img":"./images/top_nav4.png",
+                "img2":"./images/top_nav4-2.png",
+                "img3":"./images/top_nav4-3.png",
+                "img4":"./images/top_nav4-4.png"
+            },
+            {   "id":33,
+                "title":"X",
+                "img":"./images/top_nav5.png",
+                "img2":"./images/top_nav5-2.png",
+                "img3":"./images/top_nav5-3.png",
+                "img4":"./images/top_nav5-4.png"
+            }
+           
+        ]
+
+    },
+    {
+        "id":"3",
+        "list":[
+            {   "id":34,
+                "title":"红魔5G 游戏手机 氘锋版",
+                "img":"./images/top_nav6.png",
+                "img2":"./images/top_nav6-2.png",
+                "img3":"./images/top_nav6-3.png",
+                "img4":"./images/top_nav6-4.png"
+            },
+            {   "id":35,
+                "title":"红魔5G 游戏手机",
+                "img":"./images/top_nav7.png",
+                "img2":"./images/top_nav7-2.png",
+                "img3":"./images/top_nav7-3.png",
+                "img4":"./images/top_nav7-4.png"
+            },
+            {   "id":36,
+                "title":"红魔3S",
+                "img":"./images/top_nav8.png",
+                "img2":"./images/top_nav8-2.png",
+                "img3":"./images/top_nav8-3.png",
+                "img4":"./images/top_nav8-4.png"
+            },
+            {   "id":37,
+                "title":"红魔3",
+                "img":"./images/top_nav9.png",
+                "img2":"./images/top_nav9-2.png",
+                "img3":"./images/top_nav9-3.png",
+                "img4":"./images/top_nav9-4.png"
+            }
+           
+        ]
+
+    },
+    {
+        "id":"4",
+        "list":[
+            {   
+                "listName":"新品",
+                "listarr":[
+                    {   "id":43,
+                        "title":"红魔5G游戏手机大礼包",
+                        "img":"./images/top_nav11.png",
+                        "img2":"./images/top_nav11-2.png",
+                        "img3":"./images/top_nav11-3.png",
+                        "img4":"./images/top_nav11-4.png",
+                        "isNew":"新品"
+                    },
+                    {   "id":44,
+                        "title":"冰风散热魔盒Pro",
+                        "img":"./images/top_nav12.png",
+                        "img2":"./images/top_nav12-2.png",
+                        "img3":"./images/top_nav12-3.png",
+                        "img4":"./images/top_nav12-4.png",
+                        "isNew":"新品"
+                    },
+                    {   "id":45,
+                        "title":"努比亚小新 智能牙刷消毒器",
+                        "img":"./images/top_nav13.png",
+                        "img2":"./images/top_nav13-2.png",
+                        "img3":"./images/top_nav13-3.png",
+                        "img4":"./images/top_nav13-4.png",
+                        "isNew":"新品"
+                    },
+                    {   "id":46,
+                        "title":"努比亚小新 智能声波电动牙刷",
+                        "img":"./images/top_nav14.png",
+                        "img2":"./images/top_nav14-2.png",
+                        "img3":"./images/top_nav14-3.png",
+                        "img4":"./images/top_nav14-4.png",
+                        "isNew":"新品"
+                    }
+                ],
+                "more":true
+            },
+            {   "id":39,
+                "listName":"生活",
+                "listarr":[
+                    {   "id":47,
+                        "title":"努比亚小新 智能牙刷消毒器",
+                        "img":"./images/top_nav13.png",
+                        "img2":"./images/top_nav13-2.png",
+                        "img3":"./images/top_nav13-3.png",
+                        "img4":"./images/top_nav13-4.png",
+                        "isNew":"新品"
+                    },
+                    {   "id":48,
+                        "title":"努比亚小新 智能声波电动牙刷",
+                        "img":"./images/top_nav14.png",
+                        "img2":"./images/top_nav14-2.png",
+                        "img3":"./images/top_nav14-3.png",
+                        "img4":"./images/top_nav14-4.png",
+                        "isNew":"新品"
+                    },
+                    {   "id":49,
+                        "title":"车载香薰",
+                        "img":"./images/top_nav15.png",
+                        "img2":"./images/top_nav15-2.png",
+                        "img3":"./images/top_nav15-3.png",
+                        "img4":"./images/top_nav15-4.png",
+                        "isNew":""
+                    }
+                ],
+                "more":false
+            },
+            {   "id":40,
+                "listName":"智能穿戴",
+                "listarr":[
+                    {   "id":50,
+                        "title":"努比亚阿尔法",
+                        "img":"./images/top_nav16.png",
+                        "img2":"./images/top_nav16-2.png",
+                        "img3":"./images/top_nav16-3.png",
+                        "img4":"./images/top_nav16-4.png",
+                        "isNew":""
+                    }
+                ],
+                "more":false
+            },
+            {   "id":41,
+                "listName":"创意/配件",
+                "listarr":[
+                    {   "id":51,
+                        "title":"冰风散热魔盒Pro",
+                        "img":"./images/top_nav12.png",
+                        "img2":"./images/top_nav12-2.png",
+                        "img3":"./images/top_nav12-3.png",
+                        "img4":"./images/top_nav12-4.png",
+                        "isNew":"新品"
+                    },
+                    {   "id":52,
+                        "title":"红魔5G手机透明保护套",
+                        "img":"./images/top_nav17.png",
+                        "img2":"./images/top_nav17-2.png",
+                        "img3":"./images/top_nav17-3.png",
+                        "img4":"./images/top_nav17-4.png",
+                        "isNew":"新品"
+                    },
+                    {   "id":53,
+                        "title":"红魔5G游戏手机大礼包",
+                        "img":"./images/top_nav11.png",
+                        "img2":"./images/top_nav11-2.png",
+                        "img3":"./images/top_nav11-3.png",
+                        "img4":"./images/top_nav11-4.png",
+                        "isNew":"新品"
+                    },
+                    {   "id":54,
+                        "title":"65W氘锋氮化镓充电器",
+                        "img":"./images/top_nav18.png",
+                        "img2":"./images/top_nav18-2.png",
+                        "img3":"./images/top_nav18-3.png",
+                        "img4":"./images/top_nav18-4.png",
+                        "isNew":"新品"
+                    }
+                ],
+                "more":true
+            }, 
+            {   "id":42,
+                "listName":"声学",
+                "listarr":[
+                    {   "id":55,
+                        "title":"红魔战鼓便携式TWS音箱",
+                        "img":"./images/top_nav19.png",
+                        "img2":"./images/top_nav19-2.png",
+                        "img3":"./images/top_nav19-3.png",
+                        "img4":"./images/top_nav19-4.png",
+                        "isNew":""
+                    },
+                    {   "id":56,
+                        "title":"律音耳机（新版）",
+                        "img":"./images/top_nav20.png",
+                        "img2":"./images/top_nav20-2.png",
+                        "img3":"./images/top_nav20-3.png",
+                        "img4":"./images/top_nav20-4.png",
+                        "isNew":""
+                    }
+                ],
+                "more":false
+            }
+        ]
+    }
+]

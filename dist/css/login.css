@@ -1,0 +1,249 @@
+@charset "UTF-8";
+html {
+  background: #f5f5f5;
+  overflow-y: auto;
+  color: #000;
+  width: 100%;
+  height: 100%; }
+  html body {
+    font-family: "Microsoft Yahei", 微软雅黑, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #666666;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden; }
+    html body .container {
+      width: 850px;
+      margin: 0 auto;
+      margin-top: 60px;
+      background: #fff;
+      padding-bottom: 80px;
+      margin-bottom: 40px;
+      overflow: hidden; }
+      html body .container .logo {
+        background: url(../images/logoin1.png) no-repeat;
+        background-position: 0 -55px;
+        width: 156px;
+        height: 55px;
+        margin: 0 auto;
+        margin-bottom: 20px;
+        position: relative;
+        top: 30px; }
+      html body .container .nav_tab {
+        font-size: 18px;
+        color: #333;
+        margin: 0 auto;
+        text-align: center;
+        margin-bottom: 20px;
+        margin-top: 40px; }
+      html body .container .input_box {
+        width: 360px;
+        margin: 0 auto; }
+        html body .container .input_box input {
+          width: 100%;
+          height: 50px;
+          line-height: 50px;
+          padding-left: 10px;
+          border: 1px solid #e0e4e7;
+          vertical-align: middle;
+          font-size: 12px;
+          margin-bottom: 20px; }
+        html body .container .input_box .reg-pass {
+          position: relative; }
+        html body .container .input_box .btn-code {
+          border-left: 1px solid #e0e4e7;
+          display: block;
+          position: absolute;
+          top: 1px;
+          right: 0;
+          height: 50px;
+          line-height: 1.5;
+          padding: 0;
+          cursor: pointer;
+          background: #fff;
+          width: 100px;
+          text-align: center;
+          border: none;
+          border-left: 1px solid #e0e4e7; }
+        html body .container .input_box .info {
+          text-align: center;
+          color: green;
+          font-size: 16px; }
+        html body .container .input_box .input-phone {
+          display: none; }
+        html body .container .input_box .alert_info {
+          margin-left: 3px;
+          margin: 2px;
+          padding: 2px;
+          text-align: center;
+          margin-bottom: 10px; }
+        html body .container .input_box .reg-phone {
+          display: block;
+          margin-top: 60px; }
+      html body .container .btn-login-wrap {
+        padding-left: 10px; }
+        html body .container .btn-login-wrap .agreement {
+          text-align: left;
+          margin-bottom: 10px;
+          margin: 0 auto;
+          width: 372px; }
+          html body .container .btn-login-wrap .agreement input {
+            font-size: 1em;
+            margin: 0;
+            font-family: tahoma, arial, simsun, sans-serif;
+            color: #484848; }
+          html body .container .btn-login-wrap .agreement a {
+            color: red; }
+        html body .container .btn-login-wrap .btn-login {
+          width: 372px;
+          height: 50px;
+          line-height: 50px;
+          margin: 0 auto;
+          display: block;
+          margin-bottom: 20px;
+          font-size: 20px;
+          background: #e8380d;
+          color: #fff;
+          border: none;
+          cursor: pointer; }
+      html body .container .reg-new {
+        text-align: right;
+        margin-top: 10px;
+        margin: 0 auto;
+        width: 372px; }
+        html body .container .reg-new span {
+          font-size: 18px;
+          padding: 0 7px;
+          color: #d5d5d5; }
+        html body .container .reg-new a:nth-child(1) {
+          color: #e8380d; }
+      html body .container .other {
+        width: 357px;
+        margin: 0 auto;
+        padding-left: 15px;
+        margin-top: 20px; }
+        html body .container .other span {
+          float: left;
+          line-height: 30px; }
+        html body .container .other label {
+          float: left; }
+          html body .container .other label .other-login {
+            width: 28px;
+            height: 28px;
+            display: block;
+            float: right;
+            margin-left: 15px;
+            margin-right: 0px; }
+          html body .container .other label .qq {
+            background: url(../images/otherlogin.png) no-repeat -1px -1px; }
+            html body .container .other label .qq:hover {
+              background-position: -1px -30px; }
+          html body .container .other label .weibo {
+            background: url(../images/otherlogin.png) no-repeat -30px -1px; }
+            html body .container .other label .weibo:hover {
+              background-position: -30px -30px; }
+          html body .container .other label .alipay {
+            background: url(../images/otherlogin.png) no-repeat -88px -1px; }
+            html body .container .other label .alipay:hover {
+              background-position: -88px -30px; }
+          html body .container .other label .wx {
+            background: url(../images/otherlogin.png) no-repeat -59px -1px; }
+            html body .container .other label .wx:hover {
+              background-position: -59px -30px; }
+    html body .reg-container {
+      padding-bottom: 40px; }
+    html body .footer {
+      width: 100%;
+      height: auto;
+      position: relative;
+      padding: 10px 0 50px 0;
+      margin: auto;
+      z-index: 9; }
+      html body .footer .copy {
+        width: 1000px;
+        color: #ccc;
+        position: relative;
+        font-size: 12px;
+        text-align: center;
+        margin: 0 auto; }
+        html body .footer .copy a {
+          margin-right: 5px;
+          margin-left: 3px;
+          transition: 0.5s;
+          color: #ccc; }
+          html body .footer .copy a:hover {
+            color: #333; }
+          html body .footer .copy a img {
+            display: inline-block;
+            border-width: 0px;
+            border: hidden;
+            border: none;
+            vertical-align: middle;
+            height: 18px; }
+    html body .shadow {
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      left: 0;
+      top: 0;
+      z-index: 998;
+      background-color: #000;
+      opacity: 0.8;
+      display: none; }
+    html body .prompt_box {
+      position: absolute;
+      z-index: 9999;
+      top: 380px;
+      left: 50%;
+      border-radius: 10px !important;
+      min-width: 300px;
+      background-color: #fff;
+      display: none; }
+      html body .prompt_box .prompt_box_title {
+        padding: 0 80px 0 20px;
+        height: 42px;
+        line-height: 42px;
+        border-bottom: 1px solid #eee;
+        font-size: 14px;
+        color: #333;
+        overflow: hidden;
+        background-color: #F8F8F8;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        border-radius: 10px 10px 0 0 !important; }
+      html body .prompt_box .prompt_box_content {
+        position: relative;
+        overflow: auto;
+        padding: 40px 30px 20px 30px;
+        color: #333;
+        text-align: center; }
+      html body .prompt_box span {
+        display: block;
+        position: absolute;
+        right: 15px;
+        top: 15px;
+        line-height: initial;
+        width: 16px;
+        height: 16px;
+        margin-left: 10px;
+        font-size: 12px;
+        background: url(../images/icon.png) no-repeat;
+        background-position: 1px -40px;
+        cursor: pointer; }
+      html body .prompt_box .prompt_btn {
+        text-align: center;
+        border-color: #e8380d;
+        background-color: #e8380d;
+        padding: 0px 30px;
+        width: 28px;
+        height: 34px;
+        line-height: 34px;
+        color: #fff;
+        border: 1px solid #dedede;
+        font-weight: 400;
+        cursor: pointer;
+        text-decoration: none;
+        vertical-align: top;
+        border-radius: 10px !important;
+        margin: 10px auto 30px; }

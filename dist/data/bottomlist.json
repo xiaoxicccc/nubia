@@ -1,0 +1,23 @@
+[
+    {
+        "id": 9,
+        "img": "./images/bottomlist1.jpg",
+        "title": "产品热评",
+        "info":"『玩转nubia UI』个性熄屏，自己掌控！ ",
+        "href":"https://www.nubia.com/recycle.php"
+    },
+    {
+        "id": 10,
+        "img": "./images/bottomlist2.png",
+        "title": "新闻中心",
+        "info":"红魔5S游戏手机暨智能生态新品发布会，7月28日见!",
+        "href":"https://www.nubia.com/product/s/1351"
+    },
+    {
+        "id": 11,
+        "img": "./images/bottomlist3.jpg",
+        "title": "视频长廊",
+        "info":"nubia logo 升级动画 ",
+        "href":"https://www.nubia.com/product/s/1351"
+    }
+]
